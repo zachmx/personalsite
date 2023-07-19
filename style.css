@@ -1,0 +1,18 @@
+#main-content-wrapper {
+    margin-left:1rem;
+}
+
+#me {
+    max-width: 40%;
+    
+}
+
+#welcome{
+    max-width: 60%;
+}
+
+#note {
+    margin-top: 0px;
+    font-size: small;
+    font-style: italic;
+}
